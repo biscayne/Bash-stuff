@@ -5,5 +5,5 @@ Collection of bash scripts
   fed.sh - find fedex invoice based upon intercompany number  
   get-proces.sh - give the process name of process active on given port  
   remove-size.sh - delete files with a certain extension above a certain size  
-  importAlert.sh - send alert e-mail if number of orders in import directory exceeds alarm value
+  importAlert.sh - send alert e-mail if number of orders in import directory exceeds alarm value  
   labelAlert.sh - send alert e-mail if number of files in queue exceeds alarm value
