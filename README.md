@@ -8,6 +8,7 @@ Collection of bash scripts
   guldendchecker.sh - check if GuldenD is still running on the G-DASH node and restart if it's down   
   importAlert.sh - send alert e-mail if number of orders in import directory exceeds alarm value  
   labelAlert.sh - send alert e-mail if number of files in queue exceeds alarm value   
+  procesAlert.sh - send alert e-mail if alert file older than 60 minutes    
   remove-older.sh - remove files older than x days from a certain directory   
   remove-size.sh - delete files with a certain extension above a certain size  
   
